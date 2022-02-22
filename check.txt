@@ -1,2 +1,3 @@
 asipiravi : Hello
 asipiravi2 : Hi
+asipiravi2 : resolved bug2
